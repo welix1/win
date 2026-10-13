@@ -1,0 +1,2 @@
+Options -Indexed
+ErrorDocument 404 "<h1>Nothing Here </h1><a herf='/'Go Home"</a>
